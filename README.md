@@ -1,3 +1,5 @@
+![]![Screenshot 2023-10-25 at 15-24-46 Testimonials](https://github.com/AlexAyiecho/grid-testimonials/assets/140613985/a1e30d13-e281-4d5d-a0e3-faab21a666af)
+
 # Frontend Mentor - Testimonials grid section solution
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -23,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]![Screenshot 2023-10-25 at 15-24-46 Testimonials](https://github.com/AlexAyiecho/grid-testimonials/assets/140613985/a1e30d13-e281-4d5d-a0e3-faab21a666af)
+
 
 
 ### Links
